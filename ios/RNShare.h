@@ -1,5 +1,5 @@
 @import UIKit;
-#import <React/RCTBridgeModule.h>
+#import "RCTBridgeModule.h"
 
 @interface RNShare : NSObject <RCTBridgeModule>
 
